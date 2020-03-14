@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: tSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mansonav
+Implementation-Vendor-Id: com.manishsonava
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/tSystem
+Created-By: Maven Integration for Eclipse
+
